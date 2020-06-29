@@ -11,6 +11,7 @@ public class Test {
 
 class Solution {
     public boolean isHappy(int n) {
+    	//合金钢合金钢脚后跟
         boolean is = false;
     	while (n!=1) {
 			int sum =0;
