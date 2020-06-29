@@ -13,6 +13,7 @@ class Solution {
     public boolean isHappy(int n) {
     	//合金钢合金钢脚后跟
         boolean is = false;
+        //不男不女
     	while (n!=1) {
 			int sum =0;
 			for (int j = 0; j < String.valueOf(n).length(); j++) {
