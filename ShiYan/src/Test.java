@@ -4,7 +4,7 @@ public class Test {
 	public static void main(String[] args) throws InterruptedException {
 	Solution solution = new Solution();
 	System.out.println(solution.isHappy(1));
-		//123132
+		//修改了
 	}
 }
 
