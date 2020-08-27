@@ -9,6 +9,7 @@ public class Test {
 }
 
 
+
 class Solution {
     public boolean isHappy(int n) {
     	//adsfadsfasf
